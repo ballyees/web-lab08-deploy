@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/web-lab08-deploy/static/css/main.0b974771.chunk.css",
+    "main.js": "/web-lab08-deploy/static/js/main.f80dcae4.chunk.js",
+    "main.js.map": "/web-lab08-deploy/static/js/main.f80dcae4.chunk.js.map",
+    "runtime-main.js": "/web-lab08-deploy/static/js/runtime-main.cb30d6fe.js",
+    "runtime-main.js.map": "/web-lab08-deploy/static/js/runtime-main.cb30d6fe.js.map",
+    "static/css/2.62ebf70e.chunk.css": "/web-lab08-deploy/static/css/2.62ebf70e.chunk.css",
+    "static/js/2.1f251358.chunk.js": "/web-lab08-deploy/static/js/2.1f251358.chunk.js",
+    "static/js/2.1f251358.chunk.js.map": "/web-lab08-deploy/static/js/2.1f251358.chunk.js.map",
+    "index.html": "/web-lab08-deploy/index.html",
+    "precache-manifest.b85a34e1a8ebc3efc94e9e768a6d0b59.js": "/web-lab08-deploy/precache-manifest.b85a34e1a8ebc3efc94e9e768a6d0b59.js",
+    "service-worker.js": "/web-lab08-deploy/service-worker.js",
+    "static/css/2.62ebf70e.chunk.css.map": "/web-lab08-deploy/static/css/2.62ebf70e.chunk.css.map",
+    "static/css/main.0b974771.chunk.css.map": "/web-lab08-deploy/static/css/main.0b974771.chunk.css.map",
+    "static/js/2.1f251358.chunk.js.LICENSE.txt": "/web-lab08-deploy/static/js/2.1f251358.chunk.js.LICENSE.txt",
+    "static/media/dev.jfif": "/web-lab08-deploy/static/media/dev.cb83a55c.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb30d6fe.js",
+    "static/css/2.62ebf70e.chunk.css",
+    "static/js/2.1f251358.chunk.js",
+    "static/css/main.0b974771.chunk.css",
+    "static/js/main.f80dcae4.chunk.js"
+  ]
+}
